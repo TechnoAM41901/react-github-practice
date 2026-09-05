@@ -1,0 +1,15 @@
+h1{
+    background-color: black;
+    color: white;
+    border: 5px solid orange;
+    padding: 20px;
+}
+
+body{
+    background-color: lightblue;
+}
+ul{
+    background-color: blue;
+    color: white;
+    margin: 50px;
+}
