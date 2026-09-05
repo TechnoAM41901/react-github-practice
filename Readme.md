@@ -1,1 +1,2 @@
-It is going to make clash with online readme file
+# react-github-practice
+It is just a github deployment practice project
